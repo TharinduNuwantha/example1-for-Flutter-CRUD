@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "664279080978",
+    "project_id": "taskapp-64f85",
+    "storage_bucket": "taskapp-64f85.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664279080978:android:6f711329d2bbbf3dfb38cb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_21"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2LN5fHPj_a0Fx28AlSnSBQ2E9Dn2Qqf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664279080978:android:1c150438122c8323fb38cb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_22"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2LN5fHPj_a0Fx28AlSnSBQ2E9Dn2Qqf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664279080978:android:2a79ad404d49f3b8fb38cb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_23"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2LN5fHPj_a0Fx28AlSnSBQ2E9Dn2Qqf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664279080978:android:32e1055d57a4a5a5fb38cb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_24"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2LN5fHPj_a0Fx28AlSnSBQ2E9Dn2Qqf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664279080978:android:14a8fb2d74d78eaefb38cb",
+        "android_client_info": {
+          "package_name": "com.example.taskapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2LN5fHPj_a0Fx28AlSnSBQ2E9Dn2Qqf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664279080978:android:d253c0d27433636bfb38cb",
+        "android_client_info": {
+          "package_name": "com.example.taskapp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2LN5fHPj_a0Fx28AlSnSBQ2E9Dn2Qqf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
